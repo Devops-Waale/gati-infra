@@ -114,8 +114,8 @@ img { max-width: 100%; display: block; }
   color: rgba(255,255,255,0.75); letter-spacing: 2px; text-transform: uppercase;
 }
 .logo-tagline {
-  font-family: var(--font-head); font-weight: 500; font-size: 0.54rem;
-  color: var(--orange); letter-spacing: 1px; font-style: italic;
+  font-family: 'Mukta', var(--font-head); font-weight: 600; font-size: 0.62rem;
+  color: var(--orange); letter-spacing: 0.3px;
 }
 .nav-links { display: flex; gap: 24px; }
 .nav-links a {
@@ -365,8 +365,8 @@ img { max-width: 100%; display: block; }
 .about-content .section-tag { display: inline-block; }
 .about-content h2 { font-family: var(--font-head); font-size: clamp(1.4rem, 2.5vw, 2rem); font-weight: 900; margin: 12px 0 6px; line-height: 1.2; }
 .tagline-shine {
-  font-family: var(--font-head); font-style: italic; font-weight: 600;
-  font-size: 0.85rem; color: var(--orange); letter-spacing: 1.5px;
+  font-family: 'Mukta', var(--font-head); font-weight: 600;
+  font-size: 1rem; color: var(--orange); letter-spacing: 0.3px;
   margin-bottom: 16px;
 }
 .about-content p { color: var(--gray); line-height: 1.8; margin-bottom: 14px; font-size: 0.95rem; }
@@ -795,7 +795,7 @@ img { max-width: 100%; display: block; }
 
   .logo-main { font-size: 0.95rem; letter-spacing: 2px; }
   .logo-sub { font-size: 0.52rem; }
-  .logo-tagline { font-size: 0.48rem; }
+  .logo-tagline { font-size: 0.56rem; }
   .logo-icon { width: 36px; height: 36px; font-size: 1rem; }
 
   .services-category-label { font-size: 0.85rem; }
