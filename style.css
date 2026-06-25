@@ -114,7 +114,7 @@ img { max-width: 100%; display: block; }
   color: rgba(255,255,255,0.75); letter-spacing: 2px; text-transform: uppercase;
 }
 .logo-tagline {
-  font-family: 'Mukta', var(--font-head); font-weight: 700; font-size: 0.62rem;
+  font-family: 'Mukta', var(--font-head); font-weight: 700; font-size: 0.78rem;
   letter-spacing: 0.3px;
   background: linear-gradient(90deg, #1FA2FF, #12D8B0);
   -webkit-background-clip: text; background-clip: text;
@@ -801,7 +801,7 @@ img { max-width: 100%; display: block; }
 
   .logo-main { font-size: 0.95rem; letter-spacing: 2px; }
   .logo-sub { font-size: 0.52rem; }
-  .logo-tagline { font-size: 0.56rem; }
+  .logo-tagline { font-size: 0.68rem; }
   .logo-icon { width: 36px; height: 36px; font-size: 1rem; }
 
   .services-category-label { font-size: 0.85rem; }
